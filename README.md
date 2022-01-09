@@ -27,4 +27,12 @@
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><br/> 
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><br/> 
 
-
+## 👋교육과정
+```
+- 2019.06 ~ 2019.08 비트교육센터 비트 단기과정 
+- 2021.05 ~ 2021.12 KH정보교육원 웹개발자 양성과정 
+```
+## 👋자격증
+```
+- 2021.06 정보처리기사
+```
