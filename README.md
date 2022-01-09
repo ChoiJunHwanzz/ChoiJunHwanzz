@@ -12,16 +12,15 @@
 ## 📓기술스택
 ●Server<br/> 
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-
 ●Database<br/> 
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
- 
 ●Client<br/> 
  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/>
-
 ●Back-end<br/> 
- -JPA, JDBC, java based Crwaling
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Spring JPA-46BD7B?style=flat-square&logo=Spring&logoColor=white"/>
+
 ●Front-end<br/> 
  -axios 데이터 통신
  -vue.js로 Open API 사용
