@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-### 소개
-## 안녕하세요.
+## 소개
+```
+안녕하세요ㅇㄴㅁㅇㅁㄴ=
+```
+
 <!--
 **ChoiJunHwanzz/ChoiJunHwanzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
