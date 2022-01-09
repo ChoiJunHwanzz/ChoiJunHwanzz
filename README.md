@@ -10,7 +10,7 @@
 ```
 
 ## 📓Skill
-●Server<br/> 
+●<b>Server</b><br/> 
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/><br/> 
 ●Database<br/> 
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br/> 
