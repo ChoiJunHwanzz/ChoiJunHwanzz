@@ -10,5 +10,20 @@
 ```
 
 ## 📓기술스택
+●Server
+ <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Android&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+●Database
+ -MySQL
+●Client
+ -Vue.js
+ -Vuetify
+ -BootStrap
+프로젝트 시
+활용해본
+대표 기술
+●Back-end
+ -JPA, JDBC, java based Crwaling
+●Front-end
+ -axios 데이터 통신
+ -vue.js로 Open API 사용
