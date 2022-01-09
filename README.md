@@ -9,7 +9,7 @@
 - 2021.05 ~ 2021.12 KH정보교육원 웹개발자 양성과정 수료 
 ```
 
-## 📓기술스택
+## 📓Skill
 ●Server<br/> 
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/><br/> 
 ●Database<br/> 
@@ -26,6 +26,11 @@
 ●Programing Language<br/> 
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><br/> 
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><br/> 
+●Tool<br/>
+ <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/><br/> 
+ <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/><br/> 
+ <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/><br/> 
+
 
 ## 👋교육과정
 ```
