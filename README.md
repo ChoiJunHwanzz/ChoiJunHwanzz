@@ -16,15 +16,12 @@
 ●Database<br/> 
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
  
-●Client
- -Vue.js
- -Vuetify
- -BootStrap
-프로젝트 시
-활용해본
-대표 기술
-●Back-end
+●Client<br/> 
+ <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/>
+
+●Back-end<br/> 
  -JPA, JDBC, java based Crwaling
-●Front-end
+●Front-end<br/> 
  -axios 데이터 통신
  -vue.js로 Open API 사용
