@@ -9,6 +9,12 @@
 - 2021.05 ~ 2021.12 KH정보교육원 웹개발자 양성과정 수료 
 ```
 
+## 📓기술스택
+```
+
+<img src="https://img.shields.io/badge/#E34F26?style=flat-square&logo=Android&logoColor=white"/>
+```
+
 <!--
 **ChoiJunHwanzz/ChoiJunHwanzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
